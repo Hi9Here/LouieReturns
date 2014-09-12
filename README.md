@@ -1,7 +1,7 @@
 LouieReturns
 ============
 
-Wo to write 
+We want to build Louie from Silent Running and show him at a screening of the film in the Eden Project in October. 
 
 Links
 =====
