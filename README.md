@@ -6,5 +6,6 @@ We want to build Louie from Silent Running and show him at a screening of the fi
 Links
 =====
 
-http://www.robothut.robotnut.com/drone3p0web.html
+https://www.facebook.com/louiereturns
+
 https://trello.com/b/isMclEk2/louie-returns
